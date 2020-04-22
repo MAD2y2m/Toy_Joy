@@ -1,3 +1,7 @@
 <resources>
     <string name="app_name">Toy_Joy</string>
+    <string name="name" translatable="true">Name</string>
+    <string name="Email" translatable="true">Email</string>
+    <string name="Message" translatable="true">Message</string>
+
 </resources>
